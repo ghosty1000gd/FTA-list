@@ -1,0 +1,18 @@
+{
+    "id": 58252259,
+    "name": "ethereal artifice",
+    "author": "zeroya",
+    "creators": ["zeroya and others"],
+    "verifier": "ghosty",
+    "verification": "https://www.youtube.com/watch?v=3UddPBUIXtw&t=7s",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
